@@ -137,10 +137,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](kishore/mathapp/templates/mathapp/server.jpg)
+![alt text](server.jpg)
 
 ## HOMEPAGE:
-![alt text](kishore/mathapp/templates/mathapp/output.jpg)
 
+![alt text](output.jpg)
 ## RESULT:
 The program for performing server side processing is completed successfully.
